@@ -3,6 +3,5 @@
 /// More dartdocs go here.
 library;
 
-export 'src/proto_base.dart';
 
 // TODO: Export any libraries intended for clients of this package.
